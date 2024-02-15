@@ -10,5 +10,6 @@ src="https://github.com/Ardawanism/MLP-Mixer-An-all-MLP-Architecture-for-Vision/
 
 A very comprehensive youtube video is also provided, I strongly recommend you to watch to understand the neural network architecture proposed in this paper better.
 # video link:
+https://youtu.be/-GWBVpZ0bxI?si=PZvTghRSedZ3I_bm
 
 
